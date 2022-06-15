@@ -5,32 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e620e45-7b01-4618-9569-1d1dfce6dec6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-dh.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula10/Associado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula10/AssociadoHabilitado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula11/Banco/Cheque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula11/Banco/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula11/Banco/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula11/Banco/Corrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula11/Banco/Poupanca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula11/Impressora/Impressora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula11/Impressora/ImpressoraCannon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula11/Impressora/ImpressoraEpson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula11/Mesa/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula11/Mesa/Cachorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula11/Mesa/Cavalo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula11/Mesa/Preguica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula13/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula13/Corrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula13/GravarImposto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula13/Poupanca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula14/Exercicio/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula14/Exercicio/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula14/Mesa/Equipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula14/Mesa/Jogador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
